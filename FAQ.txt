@@ -1,0 +1,17 @@
+ 4	 What is Adaptive optimizer?
+ 5	 What is Class Loader?
+ 6	 What is Byte Code Verifier?
+ 7	 What is a Compiler?
+ 8	 What is an Interpreter?
+ 9	 What is the difference between a Compiler and Interpreter?
+ 10	 What are the components of JVM?
+ 11	 What is Platform Independent?
+ 12	 How does Java achieve Platform independence?
+ 13	 How to access command line arguments?
+ 14	 What are the data types in Java and what are their sizes?
+ 15	 How do you declare an array in Java?
+ 16	 How do you find the length of an array in Java?
+ 17	 What is the use of PATH variable?
+ 18	 What is the use of CLASSPATH variable?
+ 19	 How do you assign values for PATH and CLASSPATH Variable?
+ 20	 What are all the characteristic features of Java Programming language?
